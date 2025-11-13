@@ -1,0 +1,94 @@
+{
+  "countries": [
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Brunei",
+      "code": "BN",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "topics": [
+        "Trade and Economic Cooperation",
+        "Climate Policy",
+        "Digital Integration"
+      ]
+    }
+  ]
+}

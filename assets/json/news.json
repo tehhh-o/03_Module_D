@@ -1,0 +1,169 @@
+{
+  "news": [
+    {
+      "id": "ASDH-2025-MY-001",
+      "title": "Digital Economy Pact Pilots Cross-Border Payments",
+      "country": "Malaysia",
+      "topic": "Trade and Economic Cooperation",
+      "datetime": "2025-01-24T18:21:00+08:00",
+      "display_time": "18:21 Jan 24, 2025",
+      "article": "ASEAN ministers in Kuala Lumpur announced pilot corridors for cross-border QR payments to accelerate SME participation in the digital economy.",
+      "tags": ["payments", "SME", "interoperability"]
+    },
+
+    {
+      "id": "ASDH-2025-SG-002",
+      "title": "Green Finance Hub Targets Net-Zero Supply Chains",
+      "country": "Singapore",
+      "topic": "Climate Policy",
+      "datetime": "2025-02-10T09:05:00+08:00",
+      "display_time": "09:05 Feb 10, 2025",
+      "article": "A regional taxonomy alignment sprint seeks to reduce reporting friction for exporters."
+    },
+    {
+      "id": "ASDH-2025-VN-003",
+      "title": "Semiconductor Talent Taskforce Expands Scholarships",
+      "country": "Vietnam",
+      "topic": "Digital Integration",
+      "datetime": "2025-02-18T14:40:00+07:00",
+      "display_time": "14:40 Feb 18, 2025",
+      "article": "ASEAN-wide scholarship program to build advanced packaging and design skills."
+    },
+    {
+      "id": "ASDH-2025-ID-004",
+      "title": "Ports Modernization Speeds Up Trade Lanes",
+      "country": "Indonesia",
+      "topic": "Trade and Economic Cooperation",
+      "datetime": "2025-01-29T11:10:00+07:00",
+      "display_time": "11:10 Jan 29, 2025",
+      "article": "Digitized customs triage to cut average clearance time by 28%."
+    },
+    {
+      "id": "ASDH-2025-PH-005",
+      "title": "AI Readiness Framework for Public Services",
+      "country": "Philippines",
+      "topic": "Digital Integration",
+      "datetime": "2025-02-03T15:25:00+08:00",
+      "display_time": "15:25 Feb 03, 2025",
+      "article": "Common reference architecture for chat-based assistance in frontline agencies."
+    },
+
+    {
+      "id": "ASDH-2025-TH-101",
+      "title": "Customs Policy Update Streamlines E-Forms",
+      "country": "Thailand",
+      "topic": "Trade and Economic Cooperation",
+      "datetime": "2025-03-01T08:15:00+07:00",
+      "display_time": "08:15 Mar 01, 2025",
+      "article": "Unified e-forms reduce duplicate declarations across borders."
+    },
+    {
+      "id": "ASDH-2025-TH-102",
+      "title": "Digital Skills Policy Grants for SMEs",
+      "country": "Thailand",
+      "topic": "Digital Integration",
+      "datetime": "2025-03-02T10:30:00+07:00",
+      "display_time": "10:30 Mar 02, 2025",
+      "article": "Vouchers support SME upskilling in data, cloud, and cybersecurity."
+    },
+    {
+      "id": "ASDH-2025-TH-103",
+      "title": "Renewables Procurement Policy Pilots in Industrial Parks",
+      "country": "Thailand",
+      "topic": "Climate Policy",
+      "datetime": "2025-03-03T12:05:00+07:00",
+      "display_time": "12:05 Mar 03, 2025",
+      "article": "Corporate PPAs to unlock new solar capacity."
+    },
+    {
+      "id": "ASDH-2025-TH-104",
+      "title": "Open Data Policy Expands Access to Trade Statistics",
+      "country": "Thailand",
+      "topic": "Digital Integration",
+      "datetime": "2025-03-05T09:00:00+07:00",
+      "display_time": "09:00 Mar 05, 2025",
+      "article": "Monthly microdata releases to aid exporters."
+    },
+    {
+      "id": "ASDH-2025-TH-105",
+      "title": "Smart Logistics Policy Backs Cross-Docking Hubs",
+      "country": "Thailand",
+      "topic": "Trade and Economic Cooperation",
+      "datetime": "2025-03-08T16:20:00+07:00",
+      "display_time": "16:20 Mar 08, 2025",
+      "article": "IoT tracking improves cold-chain reliability."
+    },
+    {
+      "id": "ASDH-2025-TH-106",
+      "title": "Climate Disclosure Policy Aligns with ISSB",
+      "country": "Thailand",
+      "topic": "Climate Policy",
+      "datetime": "2025-03-10T13:45:00+07:00",
+      "display_time": "13:45 Mar 10, 2025",
+      "article": "Streamlined reporting pathway for listed companies."
+    },
+    {
+      "id": "ASDH-2025-TH-107",
+      "title": "Cybersecurity Baseline Policy for SMEs",
+      "country": "Thailand",
+      "topic": "Digital Integration",
+      "datetime": "2025-03-12T11:35:00+07:00",
+      "display_time": "11:35 Mar 12, 2025",
+      "article": "Baseline controls and quick assessment toolkit."
+    },
+    {
+      "id": "ASDH-2025-TH-108",
+      "title": "Export Facilitation Policy Introduces Risk Scoring",
+      "country": "Thailand",
+      "topic": "Trade and Economic Cooperation",
+      "datetime": "2025-03-15T10:10:00+07:00",
+      "display_time": "10:10 Mar 15, 2025",
+      "article": "Automated risk models accelerate low-risk cargo."
+    },
+    {
+      "id": "ASDH-2025-TH-109",
+      "title": "Green Transport Policy Encourages EV Fleets",
+      "country": "Thailand",
+      "topic": "Climate Policy",
+      "datetime": "2025-03-18T15:50:00+07:00",
+      "display_time": "15:50 Mar 18, 2025",
+      "article": "Route optimization guidance for logistics operators."
+    },
+    {
+      "id": "ASDH-2025-TH-110",
+      "title": "Digital Identity Policy Supports Cross-Border KYC",
+      "country": "Thailand",
+      "topic": "Digital Integration",
+      "datetime": "2025-03-21T09:25:00+07:00",
+      "display_time": "09:25 Mar 21, 2025",
+      "article": "Mutual recognition pilots start with banking and telco sectors."
+    },
+    {
+      "id": "ASDH-2025-TH-111",
+      "title": "Startup Procurement Policy Eases Vendor Onboarding",
+      "country": "Thailand",
+      "topic": "Trade and Economic Cooperation",
+      "datetime": "2025-03-25T14:05:00+07:00",
+      "display_time": "14:05 Mar 25, 2025",
+      "article": "Standardized contracts reduce time-to-award."
+    },
+    {
+      "id": "ASDH-2025-TH-112",
+      "title": "Data Residency Policy Clarifies Sector Exceptions",
+      "country": "Thailand",
+      "topic": "Digital Integration",
+      "datetime": "2025-03-28T17:40:00+07:00",
+      "display_time": "17:40 Mar 28, 2025",
+      "article": "Updated guidance for healthcare and financial services."
+    },
+    {
+      "id": "ASDH-2025-TH-113",
+      "title": "Circular Economy Policy Promotes Material Passports",
+      "country": "Thailand",
+      "topic": "Climate Policy",
+      "datetime": "2025-03-30T08:55:00+07:00",
+      "display_time": "08:55 Mar 30, 2025",
+      "article": "Digital twins to track product lifecycles."
+    }
+  ]
+}
